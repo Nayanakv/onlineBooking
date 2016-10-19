@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:OnlineBooking_UI"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
+    <Grid Margin="0,0,449,270">
+        <Button Content="start" />
     </Grid>
 </Window>
